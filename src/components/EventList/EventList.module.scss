@@ -1,8 +1,14 @@
 .eventList{
     // text-align: center;
+
     .flexCon{
+        padding-top: 2%;
         margin-right: 2%;
         display: flex;
         justify-content: flex-end;
+    }
+    .noRecord{
+        padding: 5%;
+        text-align: center;
     }
 }

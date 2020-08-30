@@ -83,7 +83,7 @@ const EventList = (props) => {
                             </TableRow>
                         </TableHead>
                         <TableBody>
-                            {filteredList.map((item, index) => (
+                            {filteredList.length > 0 ? filteredList.map((item, index) => (
                                 <TableRow key={index}>
                                     <TableCell>{item.eventName}</TableCell>
                                     <TableCell>{item.description}</TableCell>
@@ -91,7 +91,12 @@ const EventList = (props) => {
                                     <TableCell>{item.price}</TableCell>
                                     <TableCell>{item.discount + '%'}</TableCell>
                                 </TableRow>
-                            ))}
+                            )) :
+                            // <div className={s.noRecord}>{'No record present'}</div>
+                            <TableRow >
+                                    <TableCell>{'No record present'}</TableCell>
+                            </TableRow>
+                            }
                         </TableBody>
                     </Table>
                 </TableContainer>
@@ -114,7 +119,7 @@ const EventList = (props) => {
                     </MenuItem>
                 ))}
             </Menu>
-            <AddEvent 
+            <AddEvent
                 {...props}
                 open={open}
                 handleCloseForm={handleCloseForm}
