@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/event-management-app/static/css/main.67e08031.chunk.css",
-    "main.js": "/event-management-app/static/js/main.c1814649.chunk.js",
-    "main.js.map": "/event-management-app/static/js/main.c1814649.chunk.js.map",
+    "main.css": "/event-management-app/static/css/main.0f2b050b.chunk.css",
+    "main.js": "/event-management-app/static/js/main.1a56303d.chunk.js",
+    "main.js.map": "/event-management-app/static/js/main.1a56303d.chunk.js.map",
     "runtime-main.js": "/event-management-app/static/js/runtime-main.78ee1974.js",
     "runtime-main.js.map": "/event-management-app/static/js/runtime-main.78ee1974.js.map",
-    "static/js/2.a1767119.chunk.js": "/event-management-app/static/js/2.a1767119.chunk.js",
-    "static/js/2.a1767119.chunk.js.map": "/event-management-app/static/js/2.a1767119.chunk.js.map",
+    "static/css/2.80d83cd9.chunk.css": "/event-management-app/static/css/2.80d83cd9.chunk.css",
+    "static/js/2.3e551984.chunk.js": "/event-management-app/static/js/2.3e551984.chunk.js",
+    "static/js/2.3e551984.chunk.js.map": "/event-management-app/static/js/2.3e551984.chunk.js.map",
     "index.html": "/event-management-app/index.html",
-    "precache-manifest.e90d3f9e9de3646a4a1bd7a1becb91bb.js": "/event-management-app/precache-manifest.e90d3f9e9de3646a4a1bd7a1becb91bb.js",
+    "precache-manifest.90b442e9ff6f46be9b662e008a36531f.js": "/event-management-app/precache-manifest.90b442e9ff6f46be9b662e008a36531f.js",
     "service-worker.js": "/event-management-app/service-worker.js",
-    "static/css/main.67e08031.chunk.css.map": "/event-management-app/static/css/main.67e08031.chunk.css.map",
-    "static/js/2.a1767119.chunk.js.LICENSE.txt": "/event-management-app/static/js/2.a1767119.chunk.js.LICENSE.txt"
+    "static/css/2.80d83cd9.chunk.css.map": "/event-management-app/static/css/2.80d83cd9.chunk.css.map",
+    "static/css/main.0f2b050b.chunk.css.map": "/event-management-app/static/css/main.0f2b050b.chunk.css.map",
+    "static/js/2.3e551984.chunk.js.LICENSE.txt": "/event-management-app/static/js/2.3e551984.chunk.js.LICENSE.txt",
+    "static/media/300.css": "/event-management-app/static/media/roboto-vietnamese-300-normal.484cddf4.woff2",
+    "static/media/400.css": "/event-management-app/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2",
+    "static/media/500.css": "/event-management-app/static/media/roboto-vietnamese-500-normal.16423fb4.woff2",
+    "static/media/700.css": "/event-management-app/static/media/roboto-vietnamese-700-normal.d9600d97.woff2",
+    "static/media/900.css": "/event-management-app/static/media/roboto-vietnamese-900-normal.bbb00ee9.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.78ee1974.js",
-    "static/js/2.a1767119.chunk.js",
-    "static/css/main.67e08031.chunk.css",
-    "static/js/main.c1814649.chunk.js"
+    "static/css/2.80d83cd9.chunk.css",
+    "static/js/2.3e551984.chunk.js",
+    "static/css/main.0f2b050b.chunk.css",
+    "static/js/main.1a56303d.chunk.js"
   ]
 }
